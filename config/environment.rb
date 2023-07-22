@@ -1,3 +1,5 @@
+require 'bundler/setup'
+Bundler.require(:default, :development)
 
 source 'https://rubygems.org'
 
